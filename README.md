@@ -1,16 +1,12 @@
 <div align=center>
   
-👋 I’m <b><a target="_blank" href="linkedin.com/in/solomiia-marko">Solomiia Marko</a></b> - <b>JavaScript</b> developer with a passion for <b>web</b> and <b>mobile</b> applications development.
+👋 I’m <b><a target="_blank" href="https://drive.google.com/file/d/1DJj2MpqYCjq3H5ODDdr9ZRwvy8vfzwHL/view?usp=sharing">Solomiia Marko</a></b> - <b>JavaScript</b> developer with a passion for <b>web</b> and <b>mobile</b> applications development. 🧩
   
 </div>
 
 I am open to face challenging tasks, eager to learn and grow, with a commitment to delivering high-quality code and collaborating effectively within a team.
 
 🎲 Here you can find some of my pet projects :)
-
-<b><a target="_blank" href="https://drive.google.com/file/d/1DJj2MpqYCjq3H5ODDdr9ZRwvy8vfzwHL/view?usp=sharing">CV</a></b> 🎯 
-
-<b><a target="_blank" href="https://www.codewars.com/users/SoliaMarko">Algorithm solving skills</a></b> 🧩
 
 ## Stats:
 
