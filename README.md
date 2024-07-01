@@ -1,5 +1,7 @@
 <div align=center>
+  
 👋 I’m <b><a target="_blank" href="linkedin.com/in/solomiia-marko">Solomiia Marko</a></b> - <b>JavaScript</b> developer with a passion for <b>web</b> and <b>mobile</b> applications development.
+  
 </div>
 
 I am open to face challenging tasks, eager to learn and grow, with a commitment to delivering high-quality code and collaborating effectively within a team.
