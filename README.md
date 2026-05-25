@@ -81,7 +81,7 @@ During the work I use such 💎 tools and resources:
 ## How To Reach Me:
 
 <a target="_blank" href="linkedin.com/in/solomiia-marko"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a target="_blank" href="https://t.me/soliamrk"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a target="_blank" href="https://t.me/SoliaMarko"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a target="_blank" href="soliamark25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a target="_blank" href="discordapp.com/users/1256361854368874619"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
