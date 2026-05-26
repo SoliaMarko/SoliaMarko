@@ -11,7 +11,7 @@ I am open to face challenging tasks, eager to learn and grow, with a commitment 
 ## Stats:
 
 <div align=center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoliaMarko&theme=default&show_icons=true&hide_border=true&layout=compact" alt="SoliaMarko's GitHub Stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoliaMarko&theme=default&show_icons=true&hide_border=true&layout=compact" alt="SoliaMarko's GitHub Stats" /> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoliaMarko&theme=default&hide_border=true" alt="SoliaMarko's GitHub Stats" />
 </div>
 
@@ -44,10 +44,10 @@ I am open to face challenging tasks, eager to learn and grow, with a commitment 
 <a target="_blank" href=""><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/></a>
 <a target="_blank" href=""><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"/></a>
 
-## Currently focusing on learning: 
+<!-- ## Currently focusing on learning:  -->
 
-<a target="_blank" href=""><img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white"/></a>
-<a target="_blank" href=""><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+<!-- <a target="_blank" href=""><img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white"/></a> -->
+<!-- <a target="_blank" href=""><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a> -->
 
 ## In the nearest future I would like to work with: 
 
@@ -56,27 +56,27 @@ I am open to face challenging tasks, eager to learn and grow, with a commitment 
 <a target="_blank" href=""><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/></a>
 <a target="_blank" href=""><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
 
-## Helping Tools:
+<!-- ## Helping Tools: -->
 
-During the work I use such 💎 tools and resources:
+<!-- During the work I use such 💎 tools and resources: -->
 
-- Editors:
+<!--- Editors: -->
 
-<a target="_blank" href=""><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
-<a target="_blank" href=""><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/></a>
+<!-- <a target="_blank" href=""><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a> -->
+<!-- <a target="_blank" href=""><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/></a> -->
 
-- Photo Stocks:
+<!-- - Photo Stocks: -->
   
-<a target="_blank" href=""><img src="https://img.shields.io/badge/Pexels-05A081?style=for-the-badge&logo=pexels&logoColor=white"/></a>
-<a target="_blank" href=""><img src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white"/></a>
+<!-- <a target="_blank" href=""><img src="https://img.shields.io/badge/Pexels-05A081?style=for-the-badge&logo=pexels&logoColor=white"/></a> -->
+<!-- <a target="_blank" href=""><img src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white"/></a> -->
 
-- Courses and learning platforms:
+<!-- - Courses and learning platforms: -->
   
-<a target="_blank" href=""><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"/></a>
-<a target="_blank" href=""><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/></a>
-<a target="_blank" href=""><img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white"/></a>
-<a target="_blank" href=""><img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white"/></a>
-<a target="_blank" href=""><img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347"/></a>
+<!-- <a target="_blank" href=""><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"/></a> -->
+<!-- <a target="_blank" href=""><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/></a> -->
+<!-- <a target="_blank" href=""><img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white"/></a> -->
+<!-- <a target="_blank" href=""><img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white"/></a> -->
+<!-- <a target="_blank" href=""><img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347"/></a> -->
 
 ## How To Reach Me:
 
@@ -85,10 +85,10 @@ During the work I use such 💎 tools and resources:
 <a target="_blank" href="mailto:soliamark25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <!-- <a target="_blank" href="discordapp.com/users/1256361854368874619"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a> -->
 
-## Main working tool, OS and IDE 💻:
+<!-- ## Main working tool, OS and IDE 💻: -->
 
-<a target="_blank" href=""><img src="https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white"/></a>
-<a target="_blank" href=""><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
-<a target="_blank" href=""><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
+<!-- <a target="_blank" href=""><img src="https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white"/></a> -->
+<!-- <a target="_blank" href=""><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a> -->
+<!-- <a target="_blank" href=""><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a> -->
 
 <!-- <a target="_blank" href=""><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/></a> -->
