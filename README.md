@@ -11,7 +11,7 @@ I am open to face challenging tasks, eager to learn and grow, with a commitment 
 ## Stats:
 
 <div align=center>
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoliaMarko&theme=default&show_icons=true&hide_border=true&layout=compact" alt="SoliaMarko's GitHub Stats" /> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoliaMarko&theme=default&show_icons=true&hide_border=true&layout=compact" alt="SoliaMarko's GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoliaMarko&theme=default&hide_border=true" alt="SoliaMarko's GitHub Stats" />
 </div>
 
