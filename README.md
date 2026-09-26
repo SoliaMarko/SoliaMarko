@@ -1,6 +1,6 @@
 <div align=center>
   
-👋 I’m <b><a target="_blank" href="https://drive.google.com/file/d/1vTri7Zk95jxgtxIdbssExKXaSsNCdERy/view?usp=sharing">Solomiia Marko</a></b> - <b>TypeScript</b> developer with a passion for <b>web</b> and <b>mobile</b> applications development. 🧩
+👋 I’m <b><a target="_blank" href="[https://drive.google.com/file/d/1vTri7Zk95jxgtxIdbssExKXaSsNCdERy/view?usp=sharing](https://drive.google.com/file/d/1ZKDV1EJi0OOl3N9hdE9DLA2sXVHUqiyO/view?usp=sharing)">Solomiia Marko</a></b> - <b>TypeScript</b> developer with a passion for <b>web</b> and <b>mobile</b> applications development. 🧩
   
 </div>
 
